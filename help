@@ -1,0 +1,19 @@
+/my_app
+    ├── /model
+    │   ├── login_model.py
+    │   ├── registration_model.py
+    │   └── profile_model.py       
+    ├── /view
+    │   ├── login_view.py
+    │   ├── registration_view.py
+    │   ├── main_menu_view.py
+    │   └── profile_view.py         
+    ├── /controller
+    │   ├── login_controller.py
+    │   ├── registration_controller.py
+    │   ├── main_menu_controller.py
+    │   └── profile_controller.py    
+    ├── main.py
+    └── registrations.txt
+
+
